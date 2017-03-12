@@ -1,618 +1,618 @@
 [SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 2017/3/13
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+@with result
 
-209.95.43.24
-*.1001freefonts.com
-*.17hi99.com
-*.18deny.com
-*.2ch.net
-*.2chan.net
-*.32ch.sc
-*.4chan.org
-*.51av.biz
-*.520ebooks.com
-*.5278.cc
-*.5278bbs.com
-*.52av.tv
-*.85porn.net
-*.8smv.to
-*.absoluteclickscom.com
-*.ac.jp
-*.acarpblog.com
-*.acgvlyric.org
-*.adclr.jp
-*.add0n.com
-*.addthis.com
-*.adm.org.mo
-*.adobe.com
-*.ads.exoclick.com
-*.advg.jp
-*.aeon.co.jp
-*.ajax.cloudflare.com
-*.akamaihd.net
-*.akibatec.net
-*.alienvault.com
-*.alternativeto.net
-*.amazonaws.com
-*.amung.us
-*.anige-sokuhouvip.com
-*.anser.ne.jp
-*.apk-dl.com
-*.apol.com.tw
-*.app-tw.com
-*.archive.fo
-*.asianews2ch.jp
-*.asianrape.net
-*.asianrape.tv
-*.aspx.cc
-*.assassinscreed.ubi.com
-*.att.net
-*.autohdforyoutube.com
-*.autoitscript.com
-*.avbebe.com
-*.aventertainments.com
-*.aws.amazon.com
-*.axol.jp
-*.azureedge.net
-*.backpacker.gr
-*.bahamut.com.tw
-*.bangumi.tv
-*.battlefield.com
-*.bb-chat.tv
-*.bbchat.tv
-*.bbs.pcbeta.com
-*.bdsmtv.cc
-*.benesse.ne.jp
-*.biccamera.com
-*.bigfile.to
-*.bing.com
-*.blackdesertonline.jp
-*.blog.jp
-*.blogspot.com
-*.blogspot.jp
-*.blomaga.jp
-*.bobchao.net
-*.boldmonday.com
-*.bongacams.com
-*.bonuswinner.com.tw
-*.bootstrapcdn.com
-*.briian.com
-*.briian.tw
-*.brsbox.com
-*.brutal-vids.com
-*.brutalviolence.com
-*.btaia.com
-*.bteye.org
-*.bytesignals.com
-*.caniuse.com
-*.capcom.co.jp
-*.cdn13.com
-*.centbrowser.com
-*.cgi1.plala.or.jp
-*.channel8news.sg
-*.charlessoft.com
-*.chatwork.com
-*.chenyufei.info
-*.china.com.cn
-*.chinatimes.com
-*.chinesenewsnet.com
-*.chiphead.jp
-*.chosun.com
-*.chrome64bit.com
-*.chromeplus.net
-*.chromeplus.org
-*.ckrn.net
-*.co.kr
-*.cocolog-nifty.com
-*.code.jquery.com
-*.coinwidget.com
-*.companyofheroesgame.com
-*.contextweb.com
-*.cookpad.com
-*.copypastecharacter.com
-*.corp.adobe.com
-*.cotaiwan.info
-*.cpatch.org
-*.crwdcntrl.net
-*.cxense.com
-*.cyber-traffic.net
-*.d-upp.com
-*.d2pass.com
-*.d985a9d2clzq5.cloudfront.net
-*.daliulian.net
-*.damieng.com
-*.daoju666.com
-*.dartmouth.edu
-*.dexpot.de
-*.dietnavi.com
-*.digital21.gov.hk
-*.din.or.jp
-*.dion.ne.jp
-*.disp.cc
-*.disqus.com
-*.disquscdn.com
-*.distribute.adobe.com
-*.dl-zip.com
-*.dmg-extractor.en.softonic.com
-*.dmm.com
-*.docomo.ne.jp
-*.dopr.net
-*.download-installer.cdn.mozilla.net
-*.downloader-apk.com
-*.dqx.jp
-*.dreevee.com
-*.driveprontube.com
-*.dropbooks.tv
-*.dropboxstatic.com
-*.drp.io
-*.drx.tw
-*.dtiserv.com
-*.dtscdn.com
-*.dtscout.com
-*.duanzhihu.com
-*.dw.com
-*.dxlive.com
-*.e-hentaidb.com
-*.e1515.com.tw
-*.ebc.net.tw
-*.elle.com.tw
-*.en.miui.com
-*.englishspectrum.com
-*.eplus.jp
-*.ero-video.net
-*.erogazo-ngo.com
-*.eromb.net
-*.esuteru.com
-*.exdynsrv.com
-*.facebook.com
-*.fam-ad.com
-*.fbcdn.net
-*.fbstatic-a.akamaihd.net
-*.fda.gov
-*.fdc64.org
-*.filehorse.com
-*.filejungle.com
-*.findingresult.com
-*.firefox.net.cn
-*.firefoxfan.cc
-*.firefoxfan.net
-*.fk-bookpic.com
-*.fonlan.me
-*.fonland.net
-*.fontasp.com.tw
-*.fontbureau.com
-*.fontfoundry.com
-*.fontineed.com
-*.fontpark.net
-*.fonts.googleapis.com
-*.fontsdirect.net
-*.fontseek.com
-*.fontsfactory.com
-*.fontsseek.com
-*.food123.com.tw
-*.forcedsextube.org
-*.forum.cpatch.org
-*.freakfonts.com
-*.free-av-douga.com
-*.free-decompiler.com
-*.free-fonts-download.net
-*.freefontconverter.com
-*.freefonts.oaka.org
-*.freejapanesefont.com
-*.freepascal.org
-*.freestyler.ws
-*.freevar.com
-*.fruitmail.net
-*.fsd.it
-*.ftchinese.com
-*.ftp.mozilla.org
-*.fujitv.co.jp
-*.gamesrevenue.com
-*.gbf-wiki.com
-*.geocities.co.jp
-*.getemoji.com
-*.getlinkyoutube.com
-*.getpaint.net
-*.getpocket.com
-*.ghacks.net
-*.giga.net.tw
-*.gimp.org
-*.github.com
-*.githubapp.com
-*.githubusercontent.com
-*.glyph.iso10646hk.net
-*.good-story.net
-*.good.gd
-*.google-analytics.com
-*.google.co.jp
-*.google.com
-*.googleadservices.com
-*.googlesyndication.com
-*.googletagmanager.com
-*.googletagservices.com
-*.googlevideo.com
-*.goplextor.com
-*.gpoint.co.jp
-*.gravatar.com
-*.greasyfork.org
-*.gstatic.com
-*.gum.co
-*.gumble.tk
-*.gyao.yahoo.co.jp
-*.h528.com
-*.hangeng.net
-*.hannom-rcv.org
-*.haruka-yumenoato.net
-*.heavy-r.com
-*.hellowork.go.jp
-*.high-pitch777.com
-*.him.com.tw
-*.himasoku.com
-*.hochi.co.jp
-*.honda.co.jp
-*.hotfile.com
-*.hotss.xyz
-*.howlrape.com
-*.htmlcss.jp
-*.humyo.com
-*.i-mobile.co.jp
-*.iand2ch.net
-*.icloud.com
-*.idol-blog.com
-*.ihergo.com
-*.imatsubu.jp
-*.imgchili.net
-*.imgur.com
-*.innovationshop.com.hk
-*.input.fontbureau.com
-*.intercomcdn.com
-*.iobit.com
-*.ip138.com
-*.isc.sans.edu
-*.issuu.com
-*.itmedia.co.jp
-*.iwxss.com
-*.iza.ne.jp
-*.j-bleach.com
-*.jade-net-home.com
-*.japannetbank.co.jp
-*.japonicporn.com
-*.jasmine.com.tw
-*.javjunkies.com
-*.javpop.com
-*.javynow.com
-*.jay2u.com
-*.jcb.co.jp
-*.jetbrains.com
-*.jitenon.jp
-*.joi18.com
-*.jra.go.jp
-*.jreast.co.jp
-*.juicyads.com
-*.justfont.com
-*.jwpcdn.com
-*.jwplatform.com
-*.jwpltx.com
-*.jwpsrv.com
-*.kamilian.net
-*.kanbun.info
-*.kanji.jitenon.jp
-*.kat.cr
-*.kerodownload.com
-*.kiaru.ru
-*.kickasstorrents.to
-*.kindzadza.net
-*.kingsizetits.com
-*.koreanhistory.or.kr
-*.kuronekoyamato.co.jp
-*.librehat.com
-*.linustechtips.com
-*.linux.org.tw
-*.linuxsir.org
-*.liquidfonts.net
-*.lithium.com
-*.live.com
-*.livedoor.jp
-*.loading-delivery2.com
-*.logpi.jp
-*.loveanalsex.net
-*.luc.devroye.org
-*.lululu88.com
-*.m3.com
-*.m3img.com
-*.macx.net
-*.manga-enquete.com
-*.maxymiser.net
-*.media-ad.jp
-*.mediaraily.com
-*.meetav.com
-*.mega.co.nz
-*.mega.nz
-*.megaupload.com
-*.mgwhw.com
-*.mhlw.go.jp
-*.microad.jp
-*.microad.net
-*.microadinc.com
-*.microsoft.com
-*.milf.dk
-*.mirror.unl.edu
-*.mixi.jp
-*.mixi.net
-*.mizuhobank.co.jp
-*.mlit.go.jp
-*.mm-cg.com
-*.mobile01.com
-*.moe.edu.tw
-*.moe9th.com
-*.monex.co.jp
-*.motherless.com
-*.motoyoyo.com.tw
-*.mozilla-russia.org
-*.mpg.de
-*.msmvps.com
-*.mtvjapan.com
-*.muji.com
-*.mybao.com.tw
-*.myday.cn
-*.myfontfree.com
-*.myfonts.com
-*.naver.com
-*.naver.net
-*.navitime.co.jp
-*.neogame.jp
-*.netbk.co.jp
-*.netyea.com
-*.newtypography.co.uk
-*.nexon.co.jp
-*.nhk.or.jp
-*.nicovideo.jp
-*.nicozon.net
-*.nihilist.org.uk
-*.nikkansports.com
-*.nikkei.co.jp
-*.nikkei.com
-*.nimg.jp
-*.nintendo.co.jp
-*.nog.cc
-*.nomura.co.jp
-*.nr-data.net
-*.nta.go.jp
-*.ntcu.edu.tw
-*.nttdocomo.co.jp
-*.nukistream.com
-*.nullpoantenna.com
-*.nylon.org.tw
-*.nzbindex.nl
-*.nzeo.com
-*.ocn.ne.jp
-*.octopuspop.com
-*.ohwed.com
-*.okfun.org
-*.omni7.jp
-*.onclickads.net
-*.onlinewebfonts.com
-*.optimizely.com
-*.orbitfiles.com
-*.orico.co.jp
-*.overseas.weibo.com
-*.oyasu.info
-*.p-mouse.com
-*.p-world.co.jp
-*.pandora.tv
-*.panic.com
-*.paratype.ru
-*.pcaro.es
-*.pcbeta.com
-*.peckink.com
-*.pia.jp
-*.pinterest.com
-*.pixiv.net
-*.plurk.com
-*.pmang.jp
-*.pmy.lv
-*.po-kaki-to.com
-*.ponpare.jp
-*.popin.cc
-*.pornhu.org
-*.pornrapetube.com
-*.pornvideoq.com
-*.porojo.net
-*.post-survey.com
-*.potora.jp
-*.ppt.cc
-*.predb.org
-*.productforums.google.com
-*.proggyfonts.net
-*.pso2.jp
-*.ptt.cc
-*.pxdesign.jp
-*.py.md
-*.qhit.net
-*.qiita.com
-*.qqqbox.com
-*.qrlsx.com
-*.quantserve.com
-*.quchao.com
-*.raize.com
-*.rakuten-static.com
-*.rakuten.co.jp
-*.rakuten.ne.jp
-*.raped-virgins.com
-*.rapeincest.com
-*.rapenow.com
-*.rapidtables.com
-*.ray.winworldpc.com
-*.read01.com
-*.realitytraffic.com
-*.reddit.com
-*.rememberthemilk.com
-*.reuters.com
-*.rgho.st
-*.rockfile.eu
-*.roudokus.com
-*.rsch.jp
-*.rubiconproject.com
-*.ruclip.com
-*.ruten.com.tw
-*.s3.amazonaws.com
-*.sagawa-exp.co.jp
-*.saisoncard.co.jp
-*.salemwebnetwork.com
-*.sandboxie.com
-*.sanseido.net
-*.sascdn.com
-*.saveup.jp
-*.sbisec.co.jp
-*.scintilla.org
-*.scorecardresearch.com
-*.screen-hiragino.com
-*.seed.net.tw
-*.sendspace.com
-*.setn.com
-*.sextvx.com
-*.sexuhot.com
-*.sexy-more.com
-*.shadowsocksvip.cc
-*.shadowsocksvip.com
-*.shattered.it
-*.shitaraba.net
-*.shoudian.org
-*.shueisha.co.jp
-*.shuren6.com
-*.signumart.com
-*.slant.co
-*.sluttywifelovers.com
-*.smartadserver.com
-*.smbc.co.jp
-*.smilevideo.jp
-*.smutextreme.com
-*.sns104.com
-*.sockscap64.com
-*.soft4fun.net
-*.sokmil.com
-*.son999.com
-*.sourceforge.net
-*.sourcenext.com
-*.sponichi.co.jp
-*.ss-link.com
-*.statcounter.com
-*.static-showtime.jp
-*.steachs.com
-*.steampowered.com
-*.stefanvd.net
-*.sto.tw
-*.storage-yahoo.jp
-*.suumo.jp
-*.suzuki.co.jp
-*.tapatalk.com
-*.tbcnet.net
-*.tbs.co.jp
-*.teacup.com
-*.theaustralian.com.au
-*.this.hk
-*.tlmvpsp.eu
-*.tns-counter.ru
-*.tnu.edu.tw
-*.tokyo-porn-tube.com
-*.tokyo.jp
-*.tomocha.net
-*.tonsky.me
-*.topnewsjp.info
-*.torrentinstaller.com
-*.toshiba.com
-*.tp.edu.tw
-*.traffichunt.com
-*.tragochen.com
-*.trax-ad.jp
-*.treasuredata.com
-*.tsai.it
-*.tug.org
-*.turbobit.net
-*.turnoffthelights.com
-*.tv-asahi.co.jp
-*.tv-tokyo.co.jp
-*.tvxq.com
-*.tw.nba.tom.com
-*.tw400.org.tw
-*.twhg.com.tw
-*.twitter.com
-*.twunbbs.com
-*.tyc.edu.tw
-*.tynt.com
-*.typesuki.com
-*.typodermicfonts.com
-*.typography.com
-*.ucptt.com
-*.udarem.com
-*.udnjob.com
-*.uebei2.com
-*.uedsc.com
-*.unblockyoutube.us
-*.unkar.org
-*.uploaded.net
-*.urduit786.com
-*.users.teilar.gr
-*.userstyles.org
-*.utexas.edu
-*.uushare.com
-*.vancleef-arpels.com
-*.vector.co.jp
-*.vim.org
-*.visualwebsiteoptimizer.com
-*.viz.com
-*.vjcdn.com
-*.warezturkey.org
-*.warrenpaint.com
-*.watchmygf.com
-*.wayhorn.com
-*.webptt.com
-*.webroot.com
-*.webry.info
-*.webtato99.infolim.co.kr
-*.webupd8.org
-*.weebly.com
-*.wenweipo.com
-*.wfublog.com
-*.whatfontis.com
-*.whbhk.com
-*.whbmac.com
-*.widecap.ru
-*.wiki.mikrotik.com
-*.wild-slut.com
-*.winworldpc.com
-*.wm8c.com
-*.wordpress.com
-*.wujieliulan.com
-*.wurfl.io
-*.xin.sg
-*.xingothic.tw
-*.xlactating.com
-*.xsrv.jp
-*.xuite.net
-*.xv8r.com
-*.yahoo-leisure.hk
-*.yahoo.co.jp
-*.yahoo.com
-*.yahooapis.com
-*.yanderesimulator.com
-*.yandex.com
-*.yandex.net
-*.yandex.ru
-*.yantavideo.asia
-*.yanzi.com.tw
-*.yaraon-blog.com
-*.yastatic.net
-*.yimg.com
-*.yimg.jp
-*.yourbabb.com
-*.youtube.com
-*.yoworks.com
-*.yzu.edu.tw
-*.z0x.us
-*.zeusclicks.com
-*.zfile.us
-*.zippyshare.com
-*.zygotebody.com
+209.95.43.24 +proxy
+*.1001freefonts.com +proxy
+*.17hi99.com +proxy
+*.18deny.com +proxy
+*.2ch.net +proxy
+*.2chan.net +proxy
+*.32ch.sc +proxy
+*.4chan.org +proxy
+*.51av.biz +proxy
+*.520ebooks.com +proxy
+*.5278.cc +proxy
+*.5278bbs.com +proxy
+*.52av.tv +proxy
+*.85porn.net +proxy
+*.8smv.to +proxy
+*.absoluteclickscom.com +proxy
+*.ac.jp +proxy
+*.acarpblog.com +proxy
+*.acgvlyric.org +proxy
+*.adclr.jp +proxy
+*.add0n.com +proxy
+*.addthis.com +proxy
+*.adm.org.mo +proxy
+*.adobe.com +proxy
+*.ads.exoclick.com +proxy
+*.advg.jp +proxy
+*.aeon.co.jp +proxy
+*.ajax.cloudflare.com +proxy
+*.akamaihd.net +proxy
+*.akibatec.net +proxy
+*.alienvault.com +proxy
+*.alternativeto.net +proxy
+*.amazonaws.com +proxy
+*.amung.us +proxy
+*.anige-sokuhouvip.com +proxy
+*.anser.ne.jp +proxy
+*.apk-dl.com +proxy
+*.apol.com.tw +proxy
+*.app-tw.com +proxy
+*.archive.fo +proxy
+*.asianews2ch.jp +proxy
+*.asianrape.net +proxy
+*.asianrape.tv +proxy
+*.aspx.cc +proxy
+*.assassinscreed.ubi.com +proxy
+*.att.net +proxy
+*.autohdforyoutube.com +proxy
+*.autoitscript.com +proxy
+*.avbebe.com +proxy
+*.aventertainments.com +proxy
+*.aws.amazon.com +proxy
+*.axol.jp +proxy
+*.azureedge.net +proxy
+*.backpacker.gr +proxy
+*.bahamut.com.tw +proxy
+*.bangumi.tv +proxy
+*.battlefield.com +proxy
+*.bb-chat.tv +proxy
+*.bbchat.tv +proxy
+*.bbs.pcbeta.com +proxy
+*.bdsmtv.cc +proxy
+*.benesse.ne.jp +proxy
+*.biccamera.com +proxy
+*.bigfile.to +proxy
+*.bing.com +proxy
+*.blackdesertonline.jp +proxy
+*.blog.jp +proxy
+*.blogspot.com +proxy
+*.blogspot.jp +proxy
+*.blomaga.jp +proxy
+*.bobchao.net +proxy
+*.boldmonday.com +proxy
+*.bongacams.com +proxy
+*.bonuswinner.com.tw +proxy
+*.bootstrapcdn.com +proxy
+*.briian.com +proxy
+*.briian.tw +proxy
+*.brsbox.com +proxy
+*.brutal-vids.com +proxy
+*.brutalviolence.com +proxy
+*.btaia.com +proxy
+*.bteye.org +proxy
+*.bytesignals.com +proxy
+*.caniuse.com +proxy
+*.capcom.co.jp +proxy
+*.cdn13.com +proxy
+*.centbrowser.com +proxy
+*.cgi1.plala.or.jp +proxy
+*.channel8news.sg +proxy
+*.charlessoft.com +proxy
+*.chatwork.com +proxy
+*.chenyufei.info +proxy
+*.china.com.cn +proxy
+*.chinatimes.com +proxy
+*.chinesenewsnet.com +proxy
+*.chiphead.jp +proxy
+*.chosun.com +proxy
+*.chrome64bit.com +proxy
+*.chromeplus.net +proxy
+*.chromeplus.org +proxy
+*.ckrn.net +proxy
+*.co.kr +proxy
+*.cocolog-nifty.com +proxy
+*.code.jquery.com +proxy
+*.coinwidget.com +proxy
+*.companyofheroesgame.com +proxy
+*.contextweb.com +proxy
+*.cookpad.com +proxy
+*.copypastecharacter.com +proxy
+*.corp.adobe.com +proxy
+*.cotaiwan.info +proxy
+*.cpatch.org +proxy
+*.crwdcntrl.net +proxy
+*.cxense.com +proxy
+*.cyber-traffic.net +proxy
+*.d-upp.com +proxy
+*.d2pass.com +proxy
+*.d985a9d2clzq5.cloudfront.net +proxy
+*.daliulian.net +proxy
+*.damieng.com +proxy
+*.daoju666.com +proxy
+*.dartmouth.edu +proxy
+*.dexpot.de +proxy
+*.dietnavi.com +proxy
+*.digital21.gov.hk +proxy
+*.din.or.jp +proxy
+*.dion.ne.jp +proxy
+*.disp.cc +proxy
+*.disqus.com +proxy
+*.disquscdn.com +proxy
+*.distribute.adobe.com +proxy
+*.dl-zip.com +proxy
+*.dmg-extractor.en.softonic.com +proxy
+*.dmm.com +proxy
+*.docomo.ne.jp +proxy
+*.dopr.net +proxy
+*.download-installer.cdn.mozilla.net +proxy
+*.downloader-apk.com +proxy
+*.dqx.jp +proxy
+*.dreevee.com +proxy
+*.driveprontube.com +proxy
+*.dropbooks.tv +proxy
+*.dropboxstatic.com +proxy
+*.drp.io +proxy
+*.drx.tw +proxy
+*.dtiserv.com +proxy
+*.dtscdn.com +proxy
+*.dtscout.com +proxy
+*.duanzhihu.com +proxy
+*.dw.com +proxy
+*.dxlive.com +proxy
+*.e-hentaidb.com +proxy
+*.e1515.com.tw +proxy
+*.ebc.net.tw +proxy
+*.elle.com.tw +proxy
+*.en.miui.com +proxy
+*.englishspectrum.com +proxy
+*.eplus.jp +proxy
+*.ero-video.net +proxy
+*.erogazo-ngo.com +proxy
+*.eromb.net +proxy
+*.esuteru.com +proxy
+*.exdynsrv.com +proxy
+*.facebook.com +proxy
+*.fam-ad.com +proxy
+*.fbcdn.net +proxy
+*.fbstatic-a.akamaihd.net +proxy
+*.fda.gov +proxy
+*.fdc64.org +proxy
+*.filehorse.com +proxy
+*.filejungle.com +proxy
+*.findingresult.com +proxy
+*.firefox.net.cn +proxy
+*.firefoxfan.cc +proxy
+*.firefoxfan.net +proxy
+*.fk-bookpic.com +proxy
+*.fonlan.me +proxy
+*.fonland.net +proxy
+*.fontasp.com.tw +proxy
+*.fontbureau.com +proxy
+*.fontfoundry.com +proxy
+*.fontineed.com +proxy
+*.fontpark.net +proxy
+*.fonts.googleapis.com +proxy
+*.fontsdirect.net +proxy
+*.fontseek.com +proxy
+*.fontsfactory.com +proxy
+*.fontsseek.com +proxy
+*.food123.com.tw +proxy
+*.forcedsextube.org +proxy
+*.forum.cpatch.org +proxy
+*.freakfonts.com +proxy
+*.free-av-douga.com +proxy
+*.free-decompiler.com +proxy
+*.free-fonts-download.net +proxy
+*.freefontconverter.com +proxy
+*.freefonts.oaka.org +proxy
+*.freejapanesefont.com +proxy
+*.freepascal.org +proxy
+*.freestyler.ws +proxy
+*.freevar.com +proxy
+*.fruitmail.net +proxy
+*.fsd.it +proxy
+*.ftchinese.com +proxy
+*.ftp.mozilla.org +proxy
+*.fujitv.co.jp +proxy
+*.gamesrevenue.com +proxy
+*.gbf-wiki.com +proxy
+*.geocities.co.jp +proxy
+*.getemoji.com +proxy
+*.getlinkyoutube.com +proxy
+*.getpaint.net +proxy
+*.getpocket.com +proxy
+*.ghacks.net +proxy
+*.giga.net.tw +proxy
+*.gimp.org +proxy
+*.github.com +proxy
+*.githubapp.com +proxy
+*.githubusercontent.com +proxy
+*.glyph.iso10646hk.net +proxy
+*.good-story.net +proxy
+*.good.gd +proxy
+*.google-analytics.com +proxy
+*.google.co.jp +proxy
+*.google.com +proxy
+*.googleadservices.com +proxy
+*.googlesyndication.com +proxy
+*.googletagmanager.com +proxy
+*.googletagservices.com +proxy
+*.googlevideo.com +proxy
+*.goplextor.com +proxy
+*.gpoint.co.jp +proxy
+*.gravatar.com +proxy
+*.greasyfork.org +proxy
+*.gstatic.com +proxy
+*.gum.co +proxy
+*.gumble.tk +proxy
+*.gyao.yahoo.co.jp +proxy
+*.h528.com +proxy
+*.hangeng.net +proxy
+*.hannom-rcv.org +proxy
+*.haruka-yumenoato.net +proxy
+*.heavy-r.com +proxy
+*.hellowork.go.jp +proxy
+*.high-pitch777.com +proxy
+*.him.com.tw +proxy
+*.himasoku.com +proxy
+*.hochi.co.jp +proxy
+*.honda.co.jp +proxy
+*.hotfile.com +proxy
+*.hotss.xyz +proxy
+*.howlrape.com +proxy
+*.htmlcss.jp +proxy
+*.humyo.com +proxy
+*.i-mobile.co.jp +proxy
+*.iand2ch.net +proxy
+*.icloud.com +proxy
+*.idol-blog.com +proxy
+*.ihergo.com +proxy
+*.imatsubu.jp +proxy
+*.imgchili.net +proxy
+*.imgur.com +proxy
+*.innovationshop.com.hk +proxy
+*.input.fontbureau.com +proxy
+*.intercomcdn.com +proxy
+*.iobit.com +proxy
+*.ip138.com +proxy
+*.isc.sans.edu +proxy
+*.issuu.com +proxy
+*.itmedia.co.jp +proxy
+*.iwxss.com +proxy
+*.iza.ne.jp +proxy
+*.j-bleach.com +proxy
+*.jade-net-home.com +proxy
+*.japannetbank.co.jp +proxy
+*.japonicporn.com +proxy
+*.jasmine.com.tw +proxy
+*.javjunkies.com +proxy
+*.javpop.com +proxy
+*.javynow.com +proxy
+*.jay2u.com +proxy
+*.jcb.co.jp +proxy
+*.jetbrains.com +proxy
+*.jitenon.jp +proxy
+*.joi18.com +proxy
+*.jra.go.jp +proxy
+*.jreast.co.jp +proxy
+*.juicyads.com +proxy
+*.justfont.com +proxy
+*.jwpcdn.com +proxy
+*.jwplatform.com +proxy
+*.jwpltx.com +proxy
+*.jwpsrv.com +proxy
+*.kamilian.net +proxy
+*.kanbun.info +proxy
+*.kanji.jitenon.jp +proxy
+*.kat.cr +proxy
+*.kerodownload.com +proxy
+*.kiaru.ru +proxy
+*.kickasstorrents.to +proxy
+*.kindzadza.net +proxy
+*.kingsizetits.com +proxy
+*.koreanhistory.or.kr +proxy
+*.kuronekoyamato.co.jp +proxy
+*.librehat.com +proxy
+*.linustechtips.com +proxy
+*.linux.org.tw +proxy
+*.linuxsir.org +proxy
+*.liquidfonts.net +proxy
+*.lithium.com +proxy
+*.live.com +proxy
+*.livedoor.jp +proxy
+*.loading-delivery2.com +proxy
+*.logpi.jp +proxy
+*.loveanalsex.net +proxy
+*.luc.devroye.org +proxy
+*.lululu88.com +proxy
+*.m3.com +proxy
+*.m3img.com +proxy
+*.macx.net +proxy
+*.manga-enquete.com +proxy
+*.maxymiser.net +proxy
+*.media-ad.jp +proxy
+*.mediaraily.com +proxy
+*.meetav.com +proxy
+*.mega.co.nz +proxy
+*.mega.nz +proxy
+*.megaupload.com +proxy
+*.mgwhw.com +proxy
+*.mhlw.go.jp +proxy
+*.microad.jp +proxy
+*.microad.net +proxy
+*.microadinc.com +proxy
+*.microsoft.com +proxy
+*.milf.dk +proxy
+*.mirror.unl.edu +proxy
+*.mixi.jp +proxy
+*.mixi.net +proxy
+*.mizuhobank.co.jp +proxy
+*.mlit.go.jp +proxy
+*.mm-cg.com +proxy
+*.mobile01.com +proxy
+*.moe.edu.tw +proxy
+*.moe9th.com +proxy
+*.monex.co.jp +proxy
+*.motherless.com +proxy
+*.motoyoyo.com.tw +proxy
+*.mozilla-russia.org +proxy
+*.mpg.de +proxy
+*.msmvps.com +proxy
+*.mtvjapan.com +proxy
+*.muji.com +proxy
+*.mybao.com.tw +proxy
+*.myday.cn +proxy
+*.myfontfree.com +proxy
+*.myfonts.com +proxy
+*.naver.com +proxy
+*.naver.net +proxy
+*.navitime.co.jp +proxy
+*.neogame.jp +proxy
+*.netbk.co.jp +proxy
+*.netyea.com +proxy
+*.newtypography.co.uk +proxy
+*.nexon.co.jp +proxy
+*.nhk.or.jp +proxy
+*.nicovideo.jp +proxy
+*.nicozon.net +proxy
+*.nihilist.org.uk +proxy
+*.nikkansports.com +proxy
+*.nikkei.co.jp +proxy
+*.nikkei.com +proxy
+*.nimg.jp +proxy
+*.nintendo.co.jp +proxy
+*.nog.cc +proxy
+*.nomura.co.jp +proxy
+*.nr-data.net +proxy
+*.nta.go.jp +proxy
+*.ntcu.edu.tw +proxy
+*.nttdocomo.co.jp +proxy
+*.nukistream.com +proxy
+*.nullpoantenna.com +proxy
+*.nylon.org.tw +proxy
+*.nzbindex.nl +proxy
+*.nzeo.com +proxy
+*.ocn.ne.jp +proxy
+*.octopuspop.com +proxy
+*.ohwed.com +proxy
+*.okfun.org +proxy
+*.omni7.jp +proxy
+*.onclickads.net +proxy
+*.onlinewebfonts.com +proxy
+*.optimizely.com +proxy
+*.orbitfiles.com +proxy
+*.orico.co.jp +proxy
+*.overseas.weibo.com +proxy
+*.oyasu.info +proxy
+*.p-mouse.com +proxy
+*.p-world.co.jp +proxy
+*.pandora.tv +proxy
+*.panic.com +proxy
+*.paratype.ru +proxy
+*.pcaro.es +proxy
+*.pcbeta.com +proxy
+*.peckink.com +proxy
+*.pia.jp +proxy
+*.pinterest.com +proxy
+*.pixiv.net +proxy
+*.plurk.com +proxy
+*.pmang.jp +proxy
+*.pmy.lv +proxy
+*.po-kaki-to.com +proxy
+*.ponpare.jp +proxy
+*.popin.cc +proxy
+*.pornhu.org +proxy
+*.pornrapetube.com +proxy
+*.pornvideoq.com +proxy
+*.porojo.net +proxy
+*.post-survey.com +proxy
+*.potora.jp +proxy
+*.ppt.cc +proxy
+*.predb.org +proxy
+*.productforums.google.com +proxy
+*.proggyfonts.net +proxy
+*.pso2.jp +proxy
+*.ptt.cc +proxy
+*.pxdesign.jp +proxy
+*.py.md +proxy
+*.qhit.net +proxy
+*.qiita.com +proxy
+*.qqqbox.com +proxy
+*.qrlsx.com +proxy
+*.quantserve.com +proxy
+*.quchao.com +proxy
+*.raize.com +proxy
+*.rakuten-static.com +proxy
+*.rakuten.co.jp +proxy
+*.rakuten.ne.jp +proxy
+*.raped-virgins.com +proxy
+*.rapeincest.com +proxy
+*.rapenow.com +proxy
+*.rapidtables.com +proxy
+*.ray.winworldpc.com +proxy
+*.read01.com +proxy
+*.realitytraffic.com +proxy
+*.reddit.com +proxy
+*.rememberthemilk.com +proxy
+*.reuters.com +proxy
+*.rgho.st +proxy
+*.rockfile.eu +proxy
+*.roudokus.com +proxy
+*.rsch.jp +proxy
+*.rubiconproject.com +proxy
+*.ruclip.com +proxy
+*.ruten.com.tw +proxy
+*.s3.amazonaws.com +proxy
+*.sagawa-exp.co.jp +proxy
+*.saisoncard.co.jp +proxy
+*.salemwebnetwork.com +proxy
+*.sandboxie.com +proxy
+*.sanseido.net +proxy
+*.sascdn.com +proxy
+*.saveup.jp +proxy
+*.sbisec.co.jp +proxy
+*.scintilla.org +proxy
+*.scorecardresearch.com +proxy
+*.screen-hiragino.com +proxy
+*.seed.net.tw +proxy
+*.sendspace.com +proxy
+*.setn.com +proxy
+*.sextvx.com +proxy
+*.sexuhot.com +proxy
+*.sexy-more.com +proxy
+*.shadowsocksvip.cc +proxy
+*.shadowsocksvip.com +proxy
+*.shattered.it +proxy
+*.shitaraba.net +proxy
+*.shoudian.org +proxy
+*.shueisha.co.jp +proxy
+*.shuren6.com +proxy
+*.signumart.com +proxy
+*.slant.co +proxy
+*.sluttywifelovers.com +proxy
+*.smartadserver.com +proxy
+*.smbc.co.jp +proxy
+*.smilevideo.jp +proxy
+*.smutextreme.com +proxy
+*.sns104.com +proxy
+*.sockscap64.com +proxy
+*.soft4fun.net +proxy
+*.sokmil.com +proxy
+*.son999.com +proxy
+*.sourceforge.net +proxy
+*.sourcenext.com +proxy
+*.sponichi.co.jp +proxy
+*.ss-link.com +proxy
+*.statcounter.com +proxy
+*.static-showtime.jp +proxy
+*.steachs.com +proxy
+*.steampowered.com +proxy
+*.stefanvd.net +proxy
+*.sto.tw +proxy
+*.storage-yahoo.jp +proxy
+*.suumo.jp +proxy
+*.suzuki.co.jp +proxy
+*.tapatalk.com +proxy
+*.tbcnet.net +proxy
+*.tbs.co.jp +proxy
+*.teacup.com +proxy
+*.theaustralian.com.au +proxy
+*.this.hk +proxy
+*.tlmvpsp.eu +proxy
+*.tns-counter.ru +proxy
+*.tnu.edu.tw +proxy
+*.tokyo-porn-tube.com +proxy
+*.tokyo.jp +proxy
+*.tomocha.net +proxy
+*.tonsky.me +proxy
+*.topnewsjp.info +proxy
+*.torrentinstaller.com +proxy
+*.toshiba.com +proxy
+*.tp.edu.tw +proxy
+*.traffichunt.com +proxy
+*.tragochen.com +proxy
+*.trax-ad.jp +proxy
+*.treasuredata.com +proxy
+*.tsai.it +proxy
+*.tug.org +proxy
+*.turbobit.net +proxy
+*.turnoffthelights.com +proxy
+*.tv-asahi.co.jp +proxy
+*.tv-tokyo.co.jp +proxy
+*.tvxq.com +proxy
+*.tw.nba.tom.com +proxy
+*.tw400.org.tw +proxy
+*.twhg.com.tw +proxy
+*.twitter.com +proxy
+*.twunbbs.com +proxy
+*.tyc.edu.tw +proxy
+*.tynt.com +proxy
+*.typesuki.com +proxy
+*.typodermicfonts.com +proxy
+*.typography.com +proxy
+*.ucptt.com +proxy
+*.udarem.com +proxy
+*.udnjob.com +proxy
+*.uebei2.com +proxy
+*.uedsc.com +proxy
+*.unblockyoutube.us +proxy
+*.unkar.org +proxy
+*.uploaded.net +proxy
+*.urduit786.com +proxy
+*.users.teilar.gr +proxy
+*.userstyles.org +proxy
+*.utexas.edu +proxy
+*.uushare.com +proxy
+*.vancleef-arpels.com +proxy
+*.vector.co.jp +proxy
+*.vim.org +proxy
+*.visualwebsiteoptimizer.com +proxy
+*.viz.com +proxy
+*.vjcdn.com +proxy
+*.warezturkey.org +proxy
+*.warrenpaint.com +proxy
+*.watchmygf.com +proxy
+*.wayhorn.com +proxy
+*.webptt.com +proxy
+*.webroot.com +proxy
+*.webry.info +proxy
+*.webtato99.infolim.co.kr +proxy
+*.webupd8.org +proxy
+*.weebly.com +proxy
+*.wenweipo.com +proxy
+*.wfublog.com +proxy
+*.whatfontis.com +proxy
+*.whbhk.com +proxy
+*.whbmac.com +proxy
+*.widecap.ru +proxy
+*.wiki.mikrotik.com +proxy
+*.wild-slut.com +proxy
+*.winworldpc.com +proxy
+*.wm8c.com +proxy
+*.wordpress.com +proxy
+*.wujieliulan.com +proxy
+*.wurfl.io +proxy
+*.xin.sg +proxy
+*.xingothic.tw +proxy
+*.xlactating.com +proxy
+*.xsrv.jp +proxy
+*.xuite.net +proxy
+*.xv8r.com +proxy
+*.yahoo-leisure.hk +proxy
+*.yahoo.co.jp +proxy
+*.yahoo.com +proxy
+*.yahooapis.com +proxy
+*.yanderesimulator.com +proxy
+*.yandex.com +proxy
+*.yandex.net +proxy
+*.yandex.ru +proxy
+*.yantavideo.asia +proxy
+*.yanzi.com.tw +proxy
+*.yaraon-blog.com +proxy
+*.yastatic.net +proxy
+*.yimg.com +proxy
+*.yimg.jp +proxy
+*.yourbabb.com +proxy
+*.youtube.com +proxy
+*.yoworks.com +proxy
+*.yzu.edu.tw +proxy
+*.z0x.us +proxy
+*.zeusclicks.com +proxy
+*.zfile.us +proxy
+*.zippyshare.com +proxy
+*.zygotebody.com +proxy
+
+* +direct
