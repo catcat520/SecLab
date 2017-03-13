@@ -12,7 +12,6 @@
 ||5278.cc
 ||5278bbs.com
 ||52av.tv
-||5i01.cn
 ||85porn.net
 ||8smv.to
 ||absoluteclickscom.com
@@ -182,7 +181,6 @@
 ||fontbureau.com
 ||fontfoundry.com
 ||fontineed.com
-||fontke.com
 ||fontpark.net
 ||fonts.googleapis.com
 ||fontsdirect.net
@@ -192,7 +190,6 @@
 ||food123.com.tw
 ||forcedsextube.org
 ||forum.cpatch.org
-||forum.moztw.org
 ||freakfonts.com
 ||free-av-douga.com
 ||free-decompiler.com
@@ -217,7 +214,6 @@
 ||getpocket.com
 ||ghacks.net
 ||giga.net.tw
-||gimp.org
 ||github.com
 ||githubapp.com
 ||githubusercontent.com
@@ -304,7 +300,6 @@
 ||kickasstorrents.to
 ||kindzadza.net
 ||kingsizetits.com
-||knifec.com
 ||koreanhistory.or.kr
 ||kuronekoyamato.co.jp
 ||librehat.com
@@ -351,13 +346,10 @@
 ||motherless.com
 ||motoyoyo.com.tw
 ||mozilla-russia.org
-||mozilla.com.cn
-||moztw.org
 ||mpg.de
 ||msmvps.com
 ||mtvjapan.com
 ||muji.com
-||my.vmware.com
 ||mybao.com.tw
 ||myday.cn
 ||myfontfree.com
@@ -499,10 +491,8 @@
 ||son999.com
 ||sourceforge.net
 ||sourcenext.com
-||sozi.cn
 ||sponichi.co.jp
 ||ss-link.com
-||ssllabs.com
 ||statcounter.com
 ||static-showtime.jp
 ||steachs.com
@@ -579,7 +569,6 @@
 ||webtato99.infolim.co.kr
 ||webupd8.org
 ||weebly.com
-||weibo.com
 ||wenweipo.com
 ||wfublog.com
 ||whatfontis.com
@@ -611,7 +600,6 @@
 ||yanzi.com.tw
 ||yaraon-blog.com
 ||yastatic.net
-||yiclear.com
 ||yimg.com
 ||yimg.jp
 ||yourbabb.com
@@ -621,6 +609,7 @@
 ||z0x.us
 ||zeusclicks.com
 ||zfile.us
-||zhihu.com
 ||zippyshare.com
 ||zygotebody.com
+||ajf.me
+||pangci.cc
